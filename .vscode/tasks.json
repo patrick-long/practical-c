@@ -11,7 +11,7 @@
 				"${file}",
 				"-O0",
 				"-o",
-				"${fileDirname}\\${fileBasenameNoExtension}.o"
+				"${fileDirname}\\output\\${fileBasenameNoExtension}.o"
 			],
 			"options": {
 				"cwd": "${fileDirname}"
